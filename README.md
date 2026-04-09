@@ -8,5 +8,6 @@ Este repositório contém exercícios e pequenos projetos desenvolvidos no iníc
 - Objetivo: Estudos iniciais e resolução de exercícios
 
 ### Observação
-Os códigos aqui refletem meu nível na época e não representam meu nível atual
+Os códigos aqui refletem meu nível na época e não representam meu nível atual.
+
 Mantive este repositório como registro histórico da minha evolução
